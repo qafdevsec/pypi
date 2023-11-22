@@ -40,7 +40,7 @@ esqrerecandy==2.70
 esqpaypalnvidiaurl==4.73
 librereplacereplace==8.23
 selfhackedrandomstudy==4.59
-libvirtualsplitstring=2.35
+libvirtualsplitstring==2.35
 py-infohydrarandom==1.57
 esqproofpongint==4.27
 selfccvirtualgame==6.70
