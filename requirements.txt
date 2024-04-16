@@ -8,7 +8,7 @@ aioconsol==1.0
 admesh==0.98.1
  
 # CVE-2021-43775
-aim==2.1.0
+aim==3.1.0
 httpssp==0.0.0
 xhttpsp==1.0
 ascii2text
