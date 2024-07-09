@@ -75,3 +75,4 @@ thebypasstool==1.0
 judyb-advanced==1.0
 v4pe==5
 telthi==1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
